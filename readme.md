@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQEPJ3-2tCF28g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709817876646?e=1756944000&v=beta&t=2KUFZ4YXK32eYMWkYFqLlvjRXlQoJZp4tYxsXJcKQL4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
