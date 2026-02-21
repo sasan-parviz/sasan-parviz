@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sasan Parviz, you can call me SuperMan :)</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
